@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: goldenrod;
+}
+.tabel{
+    display: flex;
+}
+.box{
+    /* border: 2px solid red; */
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 100PX;
+    color: rgb(9, 20, 173);
+}
+h3{
+    text-align: center;
+    color: aqua;
+    border: 2PX solid rebeccapurple;
+    border-radius: 10PX;
+}
